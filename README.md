@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=200&section=header&text=SUNGJE%20sim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F7EFE9&height=200&section=header&text=SUNGJE%20KIM&fontSize=70)
 
 ## Tech 
 
