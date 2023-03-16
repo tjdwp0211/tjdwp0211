@@ -8,10 +8,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tjdwp0211"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
+    <img width="420px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
   </a>
   <br />
   <a href="https://opgc.me/#/users/tjdwp0211" target="_blank">
-    <img width="470px" height="195px" align="right" src="https://api.opgc.me/githubs/users/tjdwp0211/tag/?theme=basic" />
+    <img align="right" src="https://api.opgc.me/githubs/users/tjdwp0211/tag/?theme=basic" />
   </a>
 </div>
