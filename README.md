@@ -4,17 +4,25 @@
 <a href="https://velog.io/@sung-je-kim">
   <img align="center" src="https://velog-readme-stats.vercel.app/api/badge?name=sung-je-kim" />
 </a>
-<table align="center">
-  <tr>
-    <td valign="top">
+<table align="center" cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top" style="padding: 0">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="420px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="top" style="padding: 0">
       <a href="https://opgc.me/#/users/tjdwp0211" target="_blank">
         <img align="right" src="https://api.opgc.me/githubs/users/tjdwp0211/tag/?theme=basic" />
       </a>
     </td>
   </tr>
 </table>
+<div align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="420px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
+      </a>
+      <a href="https://opgc.me/#/users/tjdwp0211" target="_blank">
+        <img align="right" src="https://api.opgc.me/githubs/users/tjdwp0211/tag/?theme=basic" />
+      </a>
+  </div>
