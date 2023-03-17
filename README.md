@@ -9,26 +9,28 @@
 </h1>
   
 </div>
-<div align="center">
-  <h2 align="top" align="left">Stack 🛠</h2>
-  <div align="center">
-    <h3 align="left">Language</h3>
-    <p align="top">JavaScript, TypeScript</p>
-  </div>
-  <ul >
-    <h3 >FrontEnd</h3>
-    <li >Ract, Next</li>
-    <li >Redux-toolkit</li>
-    <li >@emotion, Styled-Component</li>
-  </ul>
-  <ul >
-    <h3>DevOps</h3>
-    <li>AWS (EC2, Route53)</li>
-    <li>Nginx, pm2</li>
-  </ul>
+<div>
+    <h2 >Stack 🛠</h2>
+    <ul >
+      <h3 >Language</h3>
+      <li >JavaScript, TypeScript</li>
+    </ul>
+    <ul >
+      <h3 >FrontEnd</h3>
+      <li >Ract, Next</li>
+      <li >Redux-toolkit</li>
+      <li >@emotion, Styled-Component</li>
+    </ul>
+    <ul >
+      <h3>DevOps</h3>
+      <li>AWS (EC2, Route53)</li>
+      <li>Nginx, pm2</li>
+    </ul>
 </div>
 
-<div align="center">
+
+
+<div align="right" align="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" width="420px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
   </a>
