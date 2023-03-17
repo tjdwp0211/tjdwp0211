@@ -9,23 +9,22 @@
 </h1>
 
 </div>
-<div>
-    <h2 >Stack 🛠</h2>
-    <ul >
+<div align="center">
+    <div >
       <h3 >Language</h3>
-      <li >JavaScript, TypeScript</li>
-    </ul>
-    <ul >
+      <p >JavaScript, TypeScript</p>
+    </div>
+    <div >
       <h3 >FrontEnd</h3>
-      <li >Ract, Next</li>
-      <li >Redux-toolkit</li>
-      <li >@emotion, Styled-Component</li>
-    </ul>
-    <ul >
+      <p >Ract, Next</p>
+      <p >Redux-toolkit</p>
+      <p >@emotion, Styled-Component</li>
+    </div>
+    <div >
       <h3>DevOps</h3>
-      <li>AWS (EC2, Route53)</li>
-      <li>Nginx, pm2</li>
-    </ul>
+      <p>AWS (EC2, Route53)</p>
+      <p>Nginx, pm2</p>
+    </div>
 </div>
 
 
