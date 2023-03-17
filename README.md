@@ -9,23 +9,22 @@
 </h1>
 </div>
 <div>
-  <div align="left">
-     <h3>Language</h3>
-    <p>JavaScript, TypeScript</p>
-  </div>
-  <div align="center">
-    <h3 align="top">FrontEnd</h3>
-    <p align="top">Ract, Next</p>
-    <p align="top">Redux-toolkit</p>
-    <p align="top">@emotion, Styled-Component</p>
-  </div>
-  <div align="right">
+  <h2 >Stack 🛠</h2>
+  <ul>
+    <h3>Language</h3>
+    <li>JavaScript, TypeScript</li>
+  </ul>
+  <ul >
+    <h3 >FrontEnd</h3>
+    <li >Ract, Next</li>
+    <li >Redux-toolkit</li>
+    <li >@emotion, Styled-Component</li>
+  </ul>
+  <ul >
     <h3>DevOps</h3>
-    <p>JavaScript, TypeScript</p>
-  </div>
+    <li>JavaScript, TypeScript</li>
+  </ul>
 </div>
-
-
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
