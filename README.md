@@ -7,7 +7,7 @@
     <img  align="center" src="https://velog-readme-stats.vercel.app/api/badge?name=sung-je-kim" />
   </a>
 </h1>
-  
+
 </div>
 <div>
     <h2 >Stack 🛠</h2>
@@ -30,11 +30,14 @@
 
 
 
-<div align="right" align="top">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" width="420px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=tjdwp0211" />
   </a>
   <a href="https://opgc.me/#/users/tjdwp0211" target="_blank">
     <img align="top" align="right" src="https://api.opgc.me/githubs/users/tjdwp0211/tag/?theme=basic" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=tjdwp0211" />
   </a>
 </div>
