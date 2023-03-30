@@ -16,7 +16,7 @@
     </div>
     <div >
       <h3 >FrontEnd</h3>
-      <p >Ract, Next</p>
+      <p >React, Next</p>
       <p >Redux-toolkit</p>
       <p >@emotion, Styled-Component</li>
     </div>
