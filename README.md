@@ -20,11 +20,6 @@
       <p >Redux-toolkit</p>
       <p >@emotion, Styled-Component</li>
     </div>
-    <div >
-      <h3>DevOps</h3>
-      <p>AWS (EC2, Route53)</p>
-      <p>Nginx, pm2</p>
-    </div>
 </div>
 
 
